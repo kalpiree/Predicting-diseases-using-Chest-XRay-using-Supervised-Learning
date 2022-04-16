@@ -4,6 +4,7 @@
 
 ==================**Procedure Followed**=============================
 
+
 > - Downloading and Unzipping the data from the dataset given
 
 > - Importing Libraries required
@@ -30,6 +31,19 @@
   >> -	SVM
 
 > - Conclusion
+
+
+
+## COVID DETECTION USING VGG-16
+==================**Procedure Followed**=============================
+> - Collecting the dataset from the link given.
+> - Categorizing it based on different classes.
+> - Designing the model.
+> - Splitting the data into train, test and validation.
+> - Data augmentation of the train images.
+> - Training the model with two optimizers(adam, sgd).
+> - Plotting the model accuracy and the loss.
+> - Plotting the confusion matrix.
 
 
 ==========================**END**=================================
